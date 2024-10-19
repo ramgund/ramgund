@@ -1,4 +1,4 @@
-Aqui está um exemplo de README básico e personalizável para sua página inicial do GitHub, com estatísticas e uma descrição inicial. Você pode ajustar o conteúdo de acordo com seu estilo e projetos.
+
 
 ---
 
@@ -9,42 +9,42 @@ Aqui está um exemplo de README básico e personalizável para sua página inici
 Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e aplicar novos conhecimentos em projetos inovadores. Acredito que a programação é uma ferramenta poderosa para transformar ideias em realidade!
 
 ### Sobre mim
-- 🔭 Atualmente estou trabalhando em: **[Descreva seus projetos ou foco atual]**
-- 🌱 Aprendendo: **Node.js, TypeScript, API Development, entre outras coisas**
-- 💬 Pergunte-me sobre: **Desenvolvimento de APIs, Arquitetura de Software, e automações!**
-- 📫 Como me contatar: **[Seu e-mail ou redes sociais]**
+- 🔭 Atualmente estou trabalhando em: **Um projeto do FAP**
+- 🌱 Aprendendo: **Node.js, TypeScript, API REST, JavaScript e MySql**
+- 💬 Pergunte-me sobre: **Desenvolvimento de APIs e Arquitetura de Software!**
+- 📫 Como me contatar: **vtwolmer9@gmail.com**
 - ⚡ Curiosidade: **Sou um grande fã de jogos e sempre gosto de explorar novas tecnologias.**
 
 ---
 
 ### 🌟 Estatísticas do GitHub
 
-![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=ramgund&show_icons=true&theme=radical)
 
 ---
 
 ### 🏆 Conquistas
 
-![Troféu GitHub](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=monokai)
+![Troféu GitHub](https://github-profile-trophy.vercel.app/?username=ramgund&theme=monokai)
 
 ---
 
 ### 📊 Linguagens mais usadas
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ramgund&layout=compact&theme=radical)
 
 ---
 
 ### 🚀 Minhas Contribuições
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ramgund&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ### 💻 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU_LINKEDIN)](https://www.linkedin.com/in/SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:SEU_EMAIL)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-wolmer-12a540291/)](https://www.linkedin.com/in/vitor-wolmer-12a540291/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:vtwolmer9@gmail.com)](mailto:vtwolmer9@gmail.com)
 
 ---
 
